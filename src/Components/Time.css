@@ -5,9 +5,12 @@ grid-template-rows: repeat(2,auto);
 
 .time{
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .btn{
     display: flex;
-    justify-content: space-evenly;    
+    justify-content: space-between;    
+    gap: 10px;
 }
