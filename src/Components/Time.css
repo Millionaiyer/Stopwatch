@@ -1,0 +1,13 @@
+.content{
+display: grid;
+grid-template-rows: repeat(2,auto);
+}
+
+.time{
+    display: flex;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-evenly;    
+}
